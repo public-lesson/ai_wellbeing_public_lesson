@@ -1,0 +1,2 @@
+# ai_wellbeing_public_lesson
+AI時代のウェルビーイングに関する授業の教材
